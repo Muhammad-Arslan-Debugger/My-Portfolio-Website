@@ -1,4 +1,4 @@
-// Simple animation trigger
+// Simple animation trigger 
 console.log("My Portfolio Loaded");
 
 // Smooth scroll enhancement (optional)
