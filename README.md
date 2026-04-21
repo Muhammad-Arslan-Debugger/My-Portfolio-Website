@@ -4,7 +4,7 @@
 
 This is a modern, responsive and animated personal portfolio website built using HTML, CSS, and JavaScript.
 
-It is designed to showcase my skills, projects, and contact information in a clean and professional way.
+It is designed to showcase my skills, projects and contact information in a clean and professional way.
 
 I created this project as a practice for improving my frontend development skills.
 
