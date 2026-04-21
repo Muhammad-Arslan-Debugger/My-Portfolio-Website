@@ -55,7 +55,7 @@ I created this project as a practice for improving my frontend development skill
 ## 👨‍💻 Author
 
 Muhammad Arslan  
-CS Student | Web Developer | Freelancer
+BBIT Student | Web Developer 
 
 ---
 
